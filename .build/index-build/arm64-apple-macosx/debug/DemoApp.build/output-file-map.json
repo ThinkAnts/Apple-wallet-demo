@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/primary.swiftdeps"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/DemoApp/ContentView.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/ContentView.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/ContentView.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/ContentView.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/DemoApp/DemoApp.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/DemoApp.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/DemoApp.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/DemoApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/DemoApp.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/DemoApp.build/DemoApp.dia"
+  }
+}

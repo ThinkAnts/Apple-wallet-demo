@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/master.swiftdeps"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Tests/AppleWalletPassManagerTests/AppleWalletPassManagerTests.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/AppleWalletPassManagerTests.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/AppleWalletPassManagerTests.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/AppleWalletPassManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/AppleWalletPassManagerTests.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/AppleWalletPassManagerTests.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Tests/AppleWalletPassManagerTests/PassSerializerTests.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/PassSerializerTests.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/PassSerializerTests.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/PassSerializerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/PassSerializerTests.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/AppleWalletPassManagerTests.build/PassSerializerTests.dia"
+  }
+}

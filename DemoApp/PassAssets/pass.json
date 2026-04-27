@@ -1,0 +1,91 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.example.WalletPassDemoApp",
+  "serialNumber": "DEMO-BP-001",
+  "teamIdentifier": "5C45ZNR5KV",
+  "organizationName": "Demo Airlines",
+  "description": "Boarding Pass",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(0, 80, 200)",
+  "labelColor": "rgb(200, 220, 255)",
+  "boardingPass": {
+    "transitType": "PKTransitTypeAir",
+    "headerFields": [
+      {
+        "key": "flight",
+        "label": "FLIGHT",
+        "value": "DA 442"
+      },
+      {
+        "key": "date",
+        "label": "DATE",
+        "value": "Jun 9"
+      }
+    ],
+    "primaryFields": [
+      {
+        "key": "origin",
+        "label": "CHICAGO",
+        "value": "ORD"
+      },
+      {
+        "key": "destination",
+        "label": "TOKYO",
+        "value": "HND"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "passenger",
+        "label": "PASSENGER",
+        "value": "John Doe"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "boardingTime",
+        "label": "BOARDS",
+        "value": "10:00 AM"
+      },
+      {
+        "key": "terminal",
+        "label": "TERM",
+        "value": "1"
+      },
+      {
+        "key": "gate",
+        "label": "GATE",
+        "value": "C16"
+      },
+      {
+        "key": "group",
+        "label": "GROUP",
+        "value": "3"
+      },
+      {
+        "key": "seat",
+        "label": "SEAT",
+        "value": "44A"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "info",
+        "label": "Important Information",
+        "value": "This is a demo boarding pass for testing Apple Wallet integration."
+      }
+    ]
+  },
+  "barcode": {
+    "message": "DEMO-BOARDING-PASS-ORD-HND-DA442-JOHNDOE",
+    "format": "PKBarcodeFormatQR",
+    "messageEncoding": "iso-8859-1"
+  },
+  "barcodes": [
+    {
+      "message": "DEMO-BOARDING-PASS-ORD-HND-DA442-JOHNDOE",
+      "format": "PKBarcodeFormatQR",
+      "messageEncoding": "iso-8859-1"
+    }
+  ]
+}

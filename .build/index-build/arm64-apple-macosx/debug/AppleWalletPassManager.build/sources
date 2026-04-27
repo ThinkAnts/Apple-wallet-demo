@@ -1,0 +1,8 @@
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/AppleWalletPassManager.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassData.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassManagerError.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassPayload.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/Results.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/WalletPass.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/PassComparator.swift
+/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/PassSerializer.swift

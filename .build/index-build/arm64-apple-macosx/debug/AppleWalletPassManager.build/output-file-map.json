@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/primary.swiftdeps"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/AppleWalletPassManager.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/AppleWalletPassManager.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/AppleWalletPassManager.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/AppleWalletPassManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/AppleWalletPassManager.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/AppleWalletPassManager.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassData.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassData.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassData.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassData~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassData.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassData.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassManagerError.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassManagerError.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassManagerError.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassManagerError~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassManagerError.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassManagerError.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/PassPayload.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassPayload.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassPayload.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassPayload~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassPayload.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassPayload.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/Results.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/Results.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/Results.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/Results~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/Results.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/Results.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/Models/WalletPass.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/WalletPass.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/WalletPass.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/WalletPass~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/WalletPass.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/WalletPass.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/PassComparator.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassComparator.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassComparator.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassComparator~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassComparator.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassComparator.dia"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/Sources/AppleWalletPassManager/PassSerializer.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassSerializer.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassSerializer.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassSerializer.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/index-build/arm64-apple-macosx/debug/AppleWalletPassManager.build/PassSerializer.dia"
+  }
+}

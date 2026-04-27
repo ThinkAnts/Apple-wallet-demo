@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/master.swiftdeps"
+  },
+  "/Users/rkishorek/Kiro/swift-empty/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.d",
+    "object": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swiftdeps",
+    "diagnostics": "/Users/rkishorek/Kiro/swift-empty/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.dia"
+  }
+}
